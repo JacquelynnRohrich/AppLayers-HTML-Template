@@ -2,7 +2,9 @@ Hi There!
 
 Thank you for downloading Free HTML template from pFind.com. You can checkout more free template here - http://www.pfind.com/goodies/
 
-The template is released for free under GPL license. You can read more here - https://www.gnu.org/licenses/gpl-3.0.en.html
+The template is released for free under GPL license. You can read more about GPL terms here - https://www.gnu.org/licenses/gpl-3.0.en.html
+
+By downloading this template or part of any template
 
 You're allowed to
 
@@ -23,3 +25,12 @@ You're NOT allowed to
 If you have any comment or question, do not hesitate to contact us.
 
 Thank you once again.
+
+Credits: 
+===========
+
+1. Bootstrap - http://getbootstrap.com/
+2. GLYPhicons Regular - http://glyphicons.com/
+3. Font Awesome - http://fontawesome.io/icons/
+4. Animate -https://daneden.github.io/animate.css/
+5. Pixabay - https://pixabay.com/
